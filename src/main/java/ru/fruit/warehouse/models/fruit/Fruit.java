@@ -2,8 +2,9 @@ package ru.fruit.warehouse.models.fruit;
 
 public class Fruit {
 
-    private Double weight;
+    private double weight;
     public Double getWeight() {
         return weight;
     }
+
 }
